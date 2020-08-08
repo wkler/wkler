@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![wkler's github stats](https://github-readme-stats.vercel.app/api?username=wkler)](https://github.com/wkler/README.md)
+## Hi coder 👋 
+I'm wkler, Embedded Coder.
+
+### Contact me 📱
+
+1. **blogs**:[wkler](https://wkler.github.io)
+2. **email**: 343751065@qq.com
+3. **wechat**: wklerer
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wkler&show_icons=true&theme=dark)
