@@ -21,5 +21,7 @@ I'm wkler, Embedded Coder.
 2. **email**: 343751065@qq.com
 3. **wechat**: wklerer
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wkler&show_icons=true&theme=dark)
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wkler&show_icons=true&theme=dark)
+-->
